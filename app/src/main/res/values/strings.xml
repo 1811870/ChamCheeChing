@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cham Chee Ching</string>]
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="check_fee">Check fee</string>
+    <string name="reset">Reset</string>
+    <string name="student">Student</string>
+    <string name="haj_pilgrims">Haj pilgrims</string>
+    <string name="disabled">Disabled</string>
+    <string-array name="numbers">
+        <item>Below 12</item>
+        <item>13-21</item>
+        <item>22-54</item>
+        <item>Above 55</item>
+
+    </string-array>
+</resources>
